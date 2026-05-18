@@ -12,6 +12,14 @@ Possible categories:
 - financial
 - internal
 - public
+- DNI
+- CURP
+- CPF
+- RUT
+- Cedula de ciudadania
+- Cedula de identidad
+- Documento nacional de identidad
+- Tax identifiers
 
 Possible sensitivity levels:
 - low
