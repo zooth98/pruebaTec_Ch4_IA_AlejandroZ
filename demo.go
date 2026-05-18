@@ -8,11 +8,7 @@ import (
 func main() {
 
 	textSamples := []string{
-		"My password is 123456",
-		"My SSN is 555-11-9999",
-		"Public weather report for tomorrow",
-		"Credit card number 4111111111111111",
-		"Internal company financial report",
+	"Public press release for next quarter earnings",
 	}
 
 	fmt.Println("AI Classification Engine Demo")
