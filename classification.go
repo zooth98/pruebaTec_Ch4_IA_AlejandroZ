@@ -1,5 +1,4 @@
-package models
-
+package main
 type ClassificationRequest struct {
 	Text string `json:"text"`
 }
